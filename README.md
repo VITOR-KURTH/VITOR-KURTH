@@ -11,9 +11,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media1.tenor.com/m/ELIEPKi7qIYAAAAd/disco-elysium-rave.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/_SqmYzEFYakAAAAd/disco-elysium-harry-du-bois.gif"  />
 
 ###
 
