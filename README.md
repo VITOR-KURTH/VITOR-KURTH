@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://64.media.tumblr.com/b7a57289d9e88118aa7aa6f94a667185/986bfbf5c6ba9b95-a2/s500x750/6966afeee5c1deff534731edb7940b8841907ee4.gifv"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/ELIEPKi7qIYAAAAd/disco-elysium-rave.gif"  />
 
 ###
 
