@@ -41,17 +41,11 @@
 
 ###
 
-<br clear="both">
-
-<div align="right">
-  <img height="160" src="https://media.tenor.com/ELIEPKi7qIYAAAAM/disco-elysium-rave.gif"  />
-</div>
-
-###
-
 <h3 align="left">My social media:</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="www.linkedin.com/in/vítor-kurth" target="_blank">
@@ -60,6 +54,14 @@
   <a href="https://www.instagram.com/vitor_kurth/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img height="140" src="https://media.tenor.com/ELIEPKi7qIYAAAAM/disco-elysium-rave.gif"  />
 </div>
 
 ###
