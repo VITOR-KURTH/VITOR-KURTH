@@ -56,7 +56,7 @@
   </a>
 </div>
 <div align="right">
-  <img height="180" src="https://media.tenor.com/ELIEPKi7qIYAAAAM/disco-elysium-rave.gif" />
+  <img height="230" src="https://media.tenor.com/ELIEPKi7qIYAAAAM/disco-elysium-rave.gif" />
 </div>
 
 
